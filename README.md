@@ -1,6 +1,6 @@
 # Reproducibility Archive
 
-Reproducibility Archive for Paper "Observed Correlations between Person-means Depend on Within-person Correlations" (preprint: XXX)
+Reproducibility Archive for Paper "Observed Correlations between Person-means Depend on Within-person Correlations" (preprint: https://psyarxiv.com/e2qmx)
 
 The Archive contains the following files:
 
